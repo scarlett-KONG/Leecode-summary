@@ -5,7 +5,7 @@
 
 int* runningSum(int* nums, int numsSize, int* returnSize){
     *returnSize = numsSize;
-    int* res = malloc(*returSize * sizeof(int));
+    int* res = malloc(*returnSize * sizeof(int));
 
     *res = *nums;
 
@@ -16,3 +16,4 @@ int* runningSum(int* nums, int numsSize, int* returnSize){
     return res;
 
 }
+
