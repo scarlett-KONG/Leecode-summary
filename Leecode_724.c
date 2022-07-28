@@ -1,16 +1,19 @@
 int pivotIndex(int* nums, int numsSize){
-    int pivot=0, i=0;
-    int lsum=0, rsum=0;
+    int index =0, i=0;
+    int lsum=0, rsum=0;//left sum and right sum
 
-    for(i=pivot+1;i<numsSize;i++){
-        rsum+=nums[i];
+    for(i=index+1;i<numsSize;i++){
+        rsum+=nums[i];//Firstly, add from the 1st one in the nums array 
     }
 
-    while(pivot<numsSize){
+    while(index<numsSize-1){ //Secondly,lsum adds from the 0        
         if(rsum==lsum)
-            return pivot;
-        lsum += nums[pivot];
-        rsum -= nums[++pivot];
+            return index;
+        lsum += nums[index];
+        rsum -= nums[++index];
+    }
+    if(lsum==rsum){
+        return numsSize-1;
     }
     return -1;
 }
