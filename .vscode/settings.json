@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "map": "c",
+        "initializer_list": "c",
+        "type_traits": "c",
+        "xtree": "c",
+        "xutility": "c",
+        "xtr1common": "c",
+        "ostream": "cpp"
+    }
+}
