@@ -1,0 +1,15 @@
+C:\Users\Carpediem\Desktop\code\Leecode-summary\bin\Debug\net6.0\Leecode-summary.exe
+C:\Users\Carpediem\Desktop\code\Leecode-summary\bin\Debug\net6.0\Leecode-summary.deps.json
+C:\Users\Carpediem\Desktop\code\Leecode-summary\bin\Debug\net6.0\Leecode-summary.runtimeconfig.json
+C:\Users\Carpediem\Desktop\code\Leecode-summary\bin\Debug\net6.0\Leecode-summary.dll
+C:\Users\Carpediem\Desktop\code\Leecode-summary\bin\Debug\net6.0\Leecode-summary.pdb
+C:\Users\Carpediem\Desktop\code\Leecode-summary\obj\Debug\net6.0\Leecode-summary.csproj.AssemblyReference.cache
+C:\Users\Carpediem\Desktop\code\Leecode-summary\obj\Debug\net6.0\Leecode-summary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carpediem\Desktop\code\Leecode-summary\obj\Debug\net6.0\Leecode-summary.AssemblyInfoInputs.cache
+C:\Users\Carpediem\Desktop\code\Leecode-summary\obj\Debug\net6.0\Leecode-summary.AssemblyInfo.cs
+C:\Users\Carpediem\Desktop\code\Leecode-summary\obj\Debug\net6.0\Leecode-summary.csproj.CoreCompileInputs.cache
+C:\Users\Carpediem\Desktop\code\Leecode-summary\obj\Debug\net6.0\Leecode-summary.dll
+C:\Users\Carpediem\Desktop\code\Leecode-summary\obj\Debug\net6.0\refint\Leecode-summary.dll
+C:\Users\Carpediem\Desktop\code\Leecode-summary\obj\Debug\net6.0\Leecode-summary.pdb
+C:\Users\Carpediem\Desktop\code\Leecode-summary\obj\Debug\net6.0\Leecode-summary.genruntimeconfig.cache
+C:\Users\Carpediem\Desktop\code\Leecode-summary\obj\Debug\net6.0\ref\Leecode-summary.dll
